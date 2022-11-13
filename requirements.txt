@@ -1,0 +1,8 @@
+django==3.2
+djangorestframework
+django_filter
+django-rest-swagger
+drf-spectacular
+psycopg2-binary
+django-autoslug
+django-cors-headers
