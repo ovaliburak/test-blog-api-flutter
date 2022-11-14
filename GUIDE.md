@@ -1,7 +1,5 @@
 *Install*
-docker, 
-docker-compose,  
-python3
+docker, docker-compose, python3
 
 ```
 python -m venv venv
