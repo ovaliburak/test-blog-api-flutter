@@ -1,6 +1,6 @@
 *Install*
-docker
-docker-compose 
+docker, 
+docker-compose,  
 python3
 
 ```
@@ -14,12 +14,5 @@ python manage.py createsuperuser #Enter user information
 python manage.py runserver #8000 Port
 ```
 Go to URL
-````
 127.0.0.1:8000/api/docs/
-```
-
-```
-HTTP Methods for RESTful Services
-HTTP response status codes
-
 ```
